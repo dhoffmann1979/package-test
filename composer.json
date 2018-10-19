@@ -24,6 +24,6 @@
         "typo3/cms-filemetadata": "^9.5",
         "typo3/cms-recycler": "^9.5",
         "typo3/cms-info": "^9.5",
-        "typo3/cms-fluid-styled-content": "^9.5",
+        "typo3/cms-fluid-styled-content": "^9.5"
     }
 }
